@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project was created by Gilbert Young, a developer based in Roaring Creek Village, Belize C.A.
 
 ## Available Scripts
 

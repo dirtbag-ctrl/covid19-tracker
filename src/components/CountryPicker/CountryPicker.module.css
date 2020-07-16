@@ -1,0 +1,15 @@
+.formControl{
+    width: 20%;
+    border-bottom: thin #5DC9B6;
+    margin-bottom: 30px !important;
+    background-color: #1F2024;
+}
+.picker{
+    color: white !important;
+    border: none;
+}
+@media (max-width: 770px){
+    .formControl{
+        width: 30%;
+    }
+}
